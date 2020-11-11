@@ -1,20 +1,4 @@
-# Firebase Realtime Database
-Firebase Realtime Database code guideline for Android developer
-
-## Prerequisites
-* Supported Android 4.1 or newer
-* Android Studio 3.3.2 or higher
-* google-services.json in app-level folder
-
-## Features
-* No Authentication usage
-* Authentication usage
-* Blog app demo
-* Chat app demo
-* Write Data
-* Read Data
-* Enabling Offline Capabilities
-
+A simple chat application
 ## Screenshots
 <table width="100%">
 	<tr>
